@@ -5,6 +5,7 @@
 - 📫 How to reach me :
 mohamedkhalil.hosni@esprit.tn
 khalilhosni0000@gmail.com
+www.linkedin.com/in/khalilhosni/
 
 <!---
 khalil2210/khalil2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
