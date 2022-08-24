@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalil Hosni (@khalil2210)</h1>
-<h3 align="center">A passionate IT Student from Tunisia</h3>
+<h3 align="center"> I'm 21 YO : A passionate IT Student from Tunisia</h3>
 
-- 📫 How to reach me mohamedkhalil.hosni@esprit.tn 
-OR
-khalilhosni0000@gmail.com
+
+🔭 I’m an IT student at The Private Higher School of Engineering and Technology (ESPRIT)
+ 	
+🌱 I’m currently learning frontend development using Flutter and i'm making some project with it .
+I've made some web development projects by learning only the basics HTML CSS(grid,media queries...)
+
+👨‍💻 I have a passion about problem solving and i'm always trying to improve myself because it really matters to me .
+Here you can find some of the platforms i use :
+Codeforces <a href="https://codeforces.com/profile/Khalil.Hosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalil.hosni" height="30" width="40" /></a>
+GeeksForGeeks <a href="https://auth.geeksforgeeks.org/user/khalilhosni0000" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" height="30" width="40" /></a>
+
+
+
+- 📫 How to reach me mohamedkhalil.hosni@esprit.tn khalilhosni0000@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/khalil2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/khalil2210" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalilhosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalilhosni" height="30" width="40" /></a>
-<a href="https://fb.com/khalil hosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalil hosni" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/khalil.hosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalil.hosni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalilhosni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalilhosni" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khalilhosni2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalil hosni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
