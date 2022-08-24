@@ -11,6 +11,10 @@ I've made some web development projects by learning only the basics HTML CSS(gri
 Here you can find some of the platforms i use :
 <div>Codeforces</div>
 <a href="https://codeforces.com/profile/Khalil.Hosni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="khalil.hosni" height="30" width="40" /></a>
+
+
+
+<div>GeeksForGeeks</div>
 <a href="https://auth.geeksforgeeks.org/user/khalilhosni0000" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" height="30" width="40" /></a>
 
 
