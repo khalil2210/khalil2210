@@ -2,20 +2,20 @@
 <h3 align="center"> A passionate IT Student from Tunisia</h3>
 
 
-🔭 I’m 21 years old ,  an IT student at The Private Higher School of Engineering and Technology (ESPRIT)
+🔭 I’m 22 years old ,  an IT student at The Private Higher School of Engineering and Technology (ESPRIT)
  	
-🌱 I’m currently learning frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
-I've made some web development projects by learning the basics HTML CSS in which you can in repo below (grid,media queries...)and little bit of JS
-
-👯 I’m looking to collaborate on different projects (front-end development,UI/IX design)
-👨‍💻 I have a passion about problem solving and i'm always trying to improve myself because it really matters to me .
+🌱I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
+I've made some web development projects by learning the basics HTML CSS in which you can view in the repos below (grid,media queries...)and little bit of JS
+ 
+👯 I’m looking to collaborate on different projects (front-end/back-end, development,UI/IX design,)
+👨‍💻 💻 I have a passion about problem solving and i always try to improve myself and learn the techniques needed to become a competitve programmer .
 Here you can find some of the platforms i use :
 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-<yellow>?logo=codeforces&?style=for-the-badge)](https://codeforces.com/profile/Khalil.Hosni)
 
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-brightgreen>?logo=geeksforgeeks&?style=for-the-badge)](https://auth.geeksforgeeks.org/user/khalilhosni0000)
 
-📫 How to reach me mohamedkhalil.hosni@esprit.tn khalilhosni0000@gmail.com
+📫 My email adresses : mohamedkhalil.hosni@esprit.tn  or khalilhosni0000@gmail.com
 	
 
 ## 🌐 Socials:
