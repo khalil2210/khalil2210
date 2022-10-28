@@ -8,6 +8,7 @@
 I've made some web development projects by learning the basics HTML CSS in which you can view in the repos below (grid,media queries...)and little bit of JS
  
 👯 I’m looking to collaborate on different projects (front-end/back-end, development,UI/IX design,)
+
 👨‍💻 💻 I have a passion about problem solving and i always try to improve myself and learn the techniques needed to become a competitve programmer .
 Here you can find some of the platforms i use :
 
