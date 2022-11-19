@@ -4,7 +4,7 @@
 
 🔭 I’m 22 years old ,  an IT student at The Private Higher School of Engineering and Technology (ESPRIT)
  	
-🌱I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).<br/>
+🌱I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
 I've made some web development projects by learning the basics HTML CSS in which you can view in the repos below (grid,media queries...)and little bit of JS .
 
 💻 I'm currently working on a mobile application using flutter and spring boot with other developers that will be available soon on play store .
