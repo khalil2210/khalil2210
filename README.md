@@ -6,11 +6,13 @@
  	
 🌱I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
 I've made some web development projects by learning the basics HTML CSS in which you can view in the repos below (grid,media queries...)and little bit of JS .
+
+💻 I'm currently working on a mobile application using flutter and spring boot with other developers that will be available soon on play store .
  
 👯 I’m looking to collaborate on different projects (front-end/back-end development, UI/IX design....).
 
 👨‍💻 💻 I have a passion about problem solving and i always try to improve myself and learn the techniques needed to become a competitive programmer .
-Here you can find some of the platforms i use :
+Here you can find some of the platforms i use (mostly Codeforces):
 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-<yellow>?logo=codeforces&?style=for-the-badge)](https://codeforces.com/profile/Khalil.Hosni)
 
