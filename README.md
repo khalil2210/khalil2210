@@ -14,7 +14,7 @@ I've made some web development projects by learning the basics HTML CSS in which
 👨‍💻 💻 I have a passion about problem solving and i always try to improve myself and learn the techniques needed to become a competitive programmer .
 Here you can find some of the platforms i use (mostly Codeforces):
 
-[![Codeforces](https://img.shields.io/badge/-Codeforces-<yellow>?logo=codeforces&?style=for-the-badge)](https://codeforces.com/profile/Khalil.Hosni)     [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-brightgreen>?logo=geeksforgeeks&?style=for-the-badge)](https://auth.geeksforgeeks.org/user/khalilhosni0000)[![HackerRank](https://img.shields.io/badge/-GeeksForGeeks-brightgreen>?logo=HackerRank&?style=for-the-badge)](https://www.hackerrank.com/khalilhosni0000)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-<yellow>?logo=codeforces&?style=for-the-badge)](https://codeforces.com/profile/Khalil.Hosni)     [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-brightgreen>?logo=geeksforgeeks&?style=for-the-badge)](https://auth.geeksforgeeks.org/user/khalilhosni0000)[![HackerRank](https://img.shields.io/badge/-HackerRank-lightgrey>?logo=HackerRank&?style=for-the-badge)](https://www.hackerrank.com/khalilhosni0000)
 
 
 
