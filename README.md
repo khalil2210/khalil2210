@@ -2,20 +2,25 @@
 <h3 align="center"> A passionate IT Student from Tunisia</h3>
 
 
-🔭 I’m 22 years old ,  an IT student at The Private Higher School of Engineering and Technology (ESPRIT)
+🔭 I’m 22 years old , an IT student at The Private Higher School of Engineering and Technology (ESPRIT) .
  	
-🌱I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
-I've made some web development projects by learning the basics HTML CSS in which you can view in the repos below (grid,media queries...)and little bit of JS .
+🌱 I'm studying Cloud Computing . I’m currently learning on my own frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
+
+:round_pushpin: I've made some web development projects by learning the basics HTML CSS (grid,media queries...) and i'm aiming to get more used to javascript and DOM Manipulations .
+You can view them in the repos below :arrow_down:   
 
 💻 I'm currently working on a mobile application using flutter and spring boot with other developers that will be available soon on play store .
  
 👯 I’m looking to collaborate on different projects (front-end/back-end development, UI/IX design....).
 
-👨‍💻 💻 I have a passion about problem solving and i always try to improve myself and learn the techniques needed to become a competitive programmer .
-Here you can find some of the platforms i use (mostly Codeforces):
+👨‍💻 💻 I have a passion about problem solving and I'm always trying to improve myself and learn the algorithms and data structures to become a competitive programmer .
 
-[![Codeforces](https://img.shields.io/badge/-Codeforces-<yellow>?logo=codeforces&?style=for-the-badge)](https://codeforces.com/profile/Khalil.Hosni)     [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-brightgreen>?logo=geeksforgeeks&?style=for-the-badge)](https://auth.geeksforgeeks.org/user/khalilhosni0000)  [![HackerRank](https://img.shields.io/badge/-HackerRank-lightgrey>?logo=HackerRank&?style=for-the-badge)](https://www.hackerrank.com/khalilhosni0000)
+:arrow_down: Here you can find some of the platforms i use (mostly Codeforces) :arrow_down:
 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=Flat-square&logo=Codeforces&logoColor=yellow)](https://codeforces.com/profile/Khalil.Hosni)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=Flat-square&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/khalilhosni0000)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=Flat-square&logo=HackerRank&logoColor=white)
+](https://www.hackerrank.com/khalilhosni0000)
 
 
 📫 My email adresses : mohamedkhalil.hosni@esprit.tn  or khalilhosni0000@gmail.com
