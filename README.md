@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" height="50" widht="50" align="center">, I'm Mohamed Khalil Hosni </h1>
+<h1 align="center">Hi 👋, I'm Mohamed Khalil Hosni </h1>
 <h3 align="center"> A passionate IT Student from Tunisia</h3>
-
 
 
 
