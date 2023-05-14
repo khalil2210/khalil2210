@@ -1,7 +1,4 @@
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7F7F7&center=true&vCenter=true&width=435&height=90&lines=+Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khalil+Hosni;A+passionate+IT+Student+from+Tunisia" alt="Typing SVG" /></a>
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=20&color=2CD1F7&center=true&vCenter=true&multiline=true&width=450&height=90&lines=+Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khalil+Hosni;A+passionate+IT+Student+from+Tunisia)](https://git.io/typing-svg)
 
 
 🔭 I’m 22 years old , an IT student at The Private Higher School of Engineering and Technology (ESPRIT) .
