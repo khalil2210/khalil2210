@@ -1,7 +1,7 @@
 <div align="center">
 
   <h2>Hi 👋, I'm Mohamed Khalil Hosni</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?&lines=A+passionate+IT+student+from+Tunisia&center=true&repeat=true&width=500&repeat=true&duration=5000&pause=4000">
+  <img src="https://readme-typing-svg.herokuapp.com?&lines=A+passionate+IT+student+from+Tunisia&center=true&repeat=true&width=500&repeat=true&duration=5000&pause=3000">
 
 </div>
 
