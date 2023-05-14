@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Khalil Hosni </h1>
-<h3 align="center"> A passionate IT Student from Tunisia</h3>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=F7F7F7&center=true&vCenter=true&width=435&height=90&lines=+Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khalil+Hosni;A+passionate+IT+Student+from+Tunisia" alt="Typing SVG" /></a>
+
 
 
 
