@@ -6,9 +6,10 @@
 </div>
 
 
-🔭 I’m 22 years old , a software engineering student at The Private Higher School of Engineering and Technology (ESPRIT).
+🔭 I’m 22 years old , a software engineering student with knowledge in cloud computing, I study 
+ at The Private Higher School of Engineering and Technology (ESPRIT).
  	
-🌱 I'm studying Cloud Computing . Currently learning frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
+🌱I'm Currently learning frontend development using Flutter after getting used to some UI/UX terms and tools (figma).
 
 :round_pushpin: I've made some web development projects by learning the basics HTML CSS (grid,media queries...) and i'm aiming to get more used to javascript and DOM Manipulations .
 You can view them in the repos below :arrow_down:   
