@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" height="30"> Hi 👋, I'm Mohamed Khalil Hosni <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" height="30"></h2>
-  <img src="https://readme-typing-svg.herokuapp.com?&lines=A+passionate+IT+student+from+Tunisia;Welcome+to+my+GitHub+profile!&center=true&repeat=false&width=500&repeat=true&duration=5000&pause=3000">
+  <img src="https://readme-typing-svg.herokuapp.com?&lines=A+passionate+IT+student+from+Tunisia;Welcome+to+my+GitHub+profile!&center=true&repeat=false&width=500&duration=6000&pause=3000">
 
 </div>
 
